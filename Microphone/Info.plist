@@ -41,5 +41,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>NSMicrophoneUsageDescription Allow this too :(</string>
+	<key>Privacy – Microphone Usage Description</key>
+	<string>Allow microphone</string>
 </dict>
 </plist>
